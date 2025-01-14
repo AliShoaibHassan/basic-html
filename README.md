@@ -1,3 +1,3 @@
 # basic-html
 
-This repository contains some of mosy asic projects I have made using HTML.
+This repository contains some of the most basic projects I have made using HTML.
